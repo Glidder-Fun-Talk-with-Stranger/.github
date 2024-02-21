@@ -18,9 +18,26 @@ The Open-Glidder Program will run for one month, providing participants with amp
 
 4. **Earn Points**: Every accepted contribution will earn you points based on its significance. Points will be accumulated throughout the program.
 
+
 ## Rewards and Recognition
 
 Contributors will not only earn points but will also have the chance to redeem their points for cash rewards at the end of the program. Additionally, outstanding contributors will be recognized on the Glidder platform.
+
+
+**Rewards:**
+- **1 point = ₹1**
+- **Minimum points required for cash redemption: 500 points**
+
+**Recognition:**
+- Contributors with outstanding achievements will be featured on the Glidder platform and acknowledged for their valuable contributions.
+
+**Special Recognition:**
+- Top 3 contributors with the highest points will receive additional recognition and a special mention in the Glidder community.
+
+**Note:** The reward points will be calculated based on the significance of the contribution, as determined by the program organizers. Points will be redeemable at the end of the Open-Glidder Program.
+
+Let's make this month-long collaboration a rewarding and memorable experience for all participants! 🚀
+
 
 ## Learning and Collaboration
 
@@ -39,5 +56,6 @@ As part of the Open-Glidder Program, participants will have access to learning r
 ## Join Us on this Journey
 
 Open-Glidder is more than a program; it's an opportunity to shape the future of Glidder. Let's make this month-long collaboration a memorable and impactful experience.
+contact us at akshay@wemofy.in
 
 Happy Contributing! 🚀
