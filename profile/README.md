@@ -6,7 +6,7 @@ Welcome to the Open-Glidder Program, a month-long initiative inviting contributo
 
 ## Program Duration
 
-The Open-Glidder Program will run for one month, providing participants with ample time to delve into the Glidder codebase, contribute features, fix bugs, and bring innovative ideas to life.
+The Open-Glidder Program will run for one month, providing participants with ample time to delve into the Glidder codebase, contribute features, fix bugs, and bring innovative ideas to life. from 24th Feb to 24th March
 
 ## How to Participate
 
